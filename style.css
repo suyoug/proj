@@ -1,0 +1,22 @@
+body{
+    background-color:orange;
+    margin-top: 15px;
+
+    font-family: 'Montserrat';
+}
+
+img{
+    height: 400px;
+    width: 10pxpx;
+    padding:center ;
+}
+
+#title{
+    
+    color: #fff;
+}
+
+.sk{
+    background-color: aqua;
+    
+}
